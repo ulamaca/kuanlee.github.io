@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.mediatek.com/'>Mediatek</a>. Hsinchu, Taiwan. research.tpm@gmail.com. . Etc.
 
 profile:
   align: right
@@ -20,8 +20,10 @@ social: true # includes social icons at the bottom of the page
 ---
 Hello, I'm Kuan. This website marks the beginning of my journey into research, serving as my inaugural research website. I aspire to realize my dream of becoming an academic scholar someday through this platform.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+As a passionate Machine Learning Engineer, my driving force lies in leveraging AI technology to elevate the realms of life sciences and therapeutics. I am dedicated to applying cutting-edge machine learning techniques to engineer solutions that transcend conventional boundaries, aiming to revolutionize and enhance the impact of technology in these critical fields
+
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->

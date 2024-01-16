@@ -4,11 +4,11 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Kuan
-middle_name: Random
+middle_name: X.
 last_name: Lee
 email: research.tpm@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  As a passionate Machine Learning Engineer, my driving force lies in leveraging AI technology to elevate the realms of life sciences and therapeutics. I am dedicated to applying cutting-edge machine learning techniques to engineer solutions that transcend conventional boundaries, aiming to revolutionize and enhance the impact of technology in these critical fields
+  test
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
