@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 Hello, I'm Kuan. This website marks the beginning of my journey into research, serving as my inaugural research website. I aspire to realize my dream of becoming an academic scholar someday through this platform.
 
-As a passionate Machine Learning Engineer, my driving force lies in leveraging AI technology to elevate the realms of life sciences and therapeutics. I am dedicated to applying cutting-edge machine learning techniques to engineer solutions that transcend conventional boundaries, aiming to revolutionize and enhance the impact of technology in these critical fields
+As a passionate Machine Learning Engineer, my driving force lies in leveraging AI technology to elevate the realms of life sciences and therapeutics. I am dedicated to applying cutting-edge machine learning techniques to engineer solutions that transcend conventional boundaries, aiming to revolutionize and enhance the impact of technology in these critical fields.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
