@@ -6,9 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Kuan
 middle_name: Random
 last_name: Lee
-email: you@example.com
+email: research.tpm@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  As a passionate Machine Learning Engineer, my driving force lies in leveraging AI technology to elevate the realms of life sciences and therapeutics. I am dedicated to applying cutting-edge machine learning techniques to engineer solutions that transcend conventional boundaries, aiming to revolutionize and enhance the impact of technology in these critical fields
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -18,7 +18,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://kuanlee.github.io # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -70,7 +70,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: ulamaca # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: UlamacaLee # your X handle
-mastodon_username: @kuanlee # your mastodon instance+username in the format instance.tld/@username
+mastodon_username: kuanlee # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: kuan-chun-l-a7745560 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: IgpkMgEAAAAJ # your Google Scholar ID
@@ -360,7 +360,7 @@ enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
-enable_navbar_social: false # enables displaying social links in the navbar on the about page
+enable_navbar_social: true # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
