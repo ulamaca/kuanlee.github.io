@@ -22,7 +22,7 @@ Hello, I'm Kuan. This website marks the beginning of my journey into research, s
 
 As a passionate Machine Learning Engineer, my driving force lies in leveraging AI technology to elevate the realms of life sciences and therapeutics. I am dedicated to applying cutting-edge machine learning techniques to engineer solutions that transcend conventional boundaries, aiming to revolutionize and enhance the impact of technology in these critical fields.
 
-[TODO] The next thing to do is to try out blog writing, writing down my exprierences of spinning up this personal website. https://emojibase.dev/shortcodes/ is a good reference source for typing emojis
+For my professsional profiles, please refer to my [Linkedin](https://www.linkedin.com/feed/) page.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
