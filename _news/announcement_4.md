@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Kuan created the first version of this website :blush:
+Kuan created the first version of this website :blush: :ghost:
 
